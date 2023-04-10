@@ -1,0 +1,14 @@
+.list, .table{
+    margin: 5%;
+}
+ul, th, td {
+    font-size: x-large;
+}
+table, th, td { 
+    border-collapse:collapse;
+    border: 2px solid black;
+    text-align: center;
+    }
+img {
+    height: 50px;
+}
